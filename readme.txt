@@ -5,3 +5,5 @@ Git tracks changes of files.
 test commit master location on PC?   by catout wifi!!
 Creating a new branch is quick and simple.
 no-fast forward
+restore bug 1
+
